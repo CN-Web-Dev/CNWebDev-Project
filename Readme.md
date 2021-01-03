@@ -20,10 +20,11 @@ After completion of issues only the team head will make a pull request (PR)
 
 List of resources to learn from 
 
-* HTML -
+* HTML - 
 * CSS - 
-* Github Pull Request -
-* website Design -
+* Github Pull Request - https://youtu.be/0BV1QCl8Az0
+* website Design - https://www.figma.com/file/lZeIlGJ95NtP2IsD5HBxe7/cn-design?node-id=0%3A1
+
 
 
 ## :clipboard: Summary
