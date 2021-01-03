@@ -18,7 +18,12 @@ After completion of issues only the team head will make a pull request (PR)
 
 ## :exclamation: Important
 
+List of resources to learn from 
 
+* HTML -
+* CSS - 
+* Github Pull Request -
+* website Design -
 
 
 ## :clipboard: Summary
