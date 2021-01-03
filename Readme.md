@@ -32,7 +32,9 @@ The starter code consist of HTML, CSS and Javascript.
 
 If you don't know how to submit a pull request, simply search it on Youtube and you'll find a lot of tutorials showing how to do it. Be sure to look at videos on how to work on Github issues.
 
-## :bulb: Feedback
+## :bulb: Contact
+
+For Any doubt ask in whatsapp group. All doubts will be cleared as soon as possible.
 
 
 
