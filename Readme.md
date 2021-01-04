@@ -31,7 +31,7 @@ List of resources to learn from
 
 The starter code consist of HTML, CSS and Javascript.
 
-If you don't know how to submit a pull request, simply search it on Youtube and you'll find a lot of tutorials showing how to do it. Be sure to look at videos on how to work on Github issues.
+If you don't know how to submit a pull request, Just check the important section of this readme. You will find all the resources. Be sure to look at videos on how to work on Github issues.
 
 ## :bulb: Contact
 
