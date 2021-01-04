@@ -20,8 +20,8 @@ After completion of issues only the team head will make a pull request (PR)
 
 List of resources to learn from 
 
-* HTML - 
-* CSS - 
+* HTML - https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU
+* CSS - https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU
 * Github Pull Request - https://youtu.be/0BV1QCl8Az0
 * website Design - https://www.figma.com/file/lZeIlGJ95NtP2IsD5HBxe7/cn-design?node-id=0%3A1
 
